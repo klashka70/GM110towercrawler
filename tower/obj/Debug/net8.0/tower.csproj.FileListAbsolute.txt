@@ -1,0 +1,14 @@
+C:\Users\klash\source\repos\tower\tower\bin\Debug\net8.0\tower.exe
+C:\Users\klash\source\repos\tower\tower\bin\Debug\net8.0\tower.deps.json
+C:\Users\klash\source\repos\tower\tower\bin\Debug\net8.0\tower.runtimeconfig.json
+C:\Users\klash\source\repos\tower\tower\bin\Debug\net8.0\tower.dll
+C:\Users\klash\source\repos\tower\tower\bin\Debug\net8.0\tower.pdb
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.AssemblyInfoInputs.cache
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.AssemblyInfo.cs
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.csproj.CoreCompileInputs.cache
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.dll
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\refint\tower.dll
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.pdb
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\tower.genruntimeconfig.cache
+C:\Users\klash\source\repos\tower\tower\obj\Debug\net8.0\ref\tower.dll
